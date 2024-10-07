@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @azehayusof
-- 👀 I’m interested in ... Web Developer tasks
-- 📫 How to reach me ... azehayusof@gmail.com
-<!---
-azehayusof/azehayusof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hey there! I'm Azeha, your next talented freelance Web Designer & Developer.
+- 💻 Need a website that won’t break if you sneeze at it? I got you!
+- 🛠️ Coding, debugging, or just making your digital world a little less glitchy — hit me up!
+- 📧 How to find me? azehayusof@gmail.com (I check it more often than I check my facebook).
